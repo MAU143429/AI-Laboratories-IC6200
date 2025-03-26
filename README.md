@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence Labs — CE4702
+# 🤖 Artificial Intelligence Labs — IC-6200
 
 ## 🧠 Overview
 
